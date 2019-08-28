@@ -1,0 +1,9 @@
+.clock-widget {
+    font-family: 'Permanent Marker', cursive;
+    background-color: cornflowerblue;
+}
+
+.clock-widget p {
+    display: flex;
+    justify-content: space-between;
+}
